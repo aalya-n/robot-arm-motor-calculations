@@ -10,6 +10,7 @@ This documentation analyzes the torque requirements for a robotic arm lifting pa
 **Force:** 1 × 9.81 = 9.81 N
 
 Torque (Nm) = Force (N) × Distance (m)
+
 Force = Playload Mass × Gravity = m × 9.81
 
 | Joint    | Distance from Load (m)| Torque Required (Nm)|
